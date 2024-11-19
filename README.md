@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on React.js with AI Integrated features
+- 🔭 I’m currently working on React.js\Next.js with AI Integrated features
 - 💻 I am a self taught Full Stack Developer
 - 🌱 I’m currently learning Next.js, Django & DS/ML
 - 🌟 Languages: TypeScript, Python, SQL, Java
